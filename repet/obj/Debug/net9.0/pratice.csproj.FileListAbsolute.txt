@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /repet/bin/Debug/net9.0/pratice
+/Users/thiagoalessandro/Projetos/pratice /repet/bin/Debug/net9.0/pratice.deps.json
+/Users/thiagoalessandro/Projetos/pratice /repet/bin/Debug/net9.0/pratice.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /repet/bin/Debug/net9.0/pratice.dll
+/Users/thiagoalessandro/Projetos/pratice /repet/bin/Debug/net9.0/pratice.pdb
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.dll
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/refint/pratice.dll
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.pdb
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/pratice.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /repet/obj/Debug/net9.0/ref/pratice.dll

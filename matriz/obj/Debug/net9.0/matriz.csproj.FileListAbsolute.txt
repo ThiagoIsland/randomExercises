@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /matriz/bin/Debug/net9.0/matriz
+/Users/thiagoalessandro/Projetos/pratice /matriz/bin/Debug/net9.0/matriz.deps.json
+/Users/thiagoalessandro/Projetos/pratice /matriz/bin/Debug/net9.0/matriz.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /matriz/bin/Debug/net9.0/matriz.dll
+/Users/thiagoalessandro/Projetos/pratice /matriz/bin/Debug/net9.0/matriz.pdb
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.dll
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/refint/matriz.dll
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.pdb
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/matriz.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /matriz/obj/Debug/net9.0/ref/matriz.dll

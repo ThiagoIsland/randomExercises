@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /vetor/bin/Debug/net9.0/vetor
+/Users/thiagoalessandro/Projetos/pratice /vetor/bin/Debug/net9.0/vetor.deps.json
+/Users/thiagoalessandro/Projetos/pratice /vetor/bin/Debug/net9.0/vetor.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /vetor/bin/Debug/net9.0/vetor.dll
+/Users/thiagoalessandro/Projetos/pratice /vetor/bin/Debug/net9.0/vetor.pdb
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.dll
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/refint/vetor.dll
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.pdb
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/vetor.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /vetor/obj/Debug/net9.0/ref/vetor.dll

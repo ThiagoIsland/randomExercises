@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /tabuada/bin/Debug/net9.0/tabuada
+/Users/thiagoalessandro/Projetos/pratice /tabuada/bin/Debug/net9.0/tabuada.deps.json
+/Users/thiagoalessandro/Projetos/pratice /tabuada/bin/Debug/net9.0/tabuada.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /tabuada/bin/Debug/net9.0/tabuada.dll
+/Users/thiagoalessandro/Projetos/pratice /tabuada/bin/Debug/net9.0/tabuada.pdb
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.dll
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/refint/tabuada.dll
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.pdb
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/tabuada.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/Debug/net9.0/ref/tabuada.dll

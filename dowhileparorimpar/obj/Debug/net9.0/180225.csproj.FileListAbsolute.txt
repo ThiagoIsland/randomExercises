@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /180225/bin/Debug/net9.0/180225
+/Users/thiagoalessandro/Projetos/pratice /180225/bin/Debug/net9.0/180225.deps.json
+/Users/thiagoalessandro/Projetos/pratice /180225/bin/Debug/net9.0/180225.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /180225/bin/Debug/net9.0/180225.dll
+/Users/thiagoalessandro/Projetos/pratice /180225/bin/Debug/net9.0/180225.pdb
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.dll
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/refint/180225.dll
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.pdb
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/180225.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /180225/obj/Debug/net9.0/ref/180225.dll

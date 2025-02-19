@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /areageo/bin/Debug/net9.0/areageo
+/Users/thiagoalessandro/Projetos/pratice /areageo/bin/Debug/net9.0/areageo.deps.json
+/Users/thiagoalessandro/Projetos/pratice /areageo/bin/Debug/net9.0/areageo.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /areageo/bin/Debug/net9.0/areageo.dll
+/Users/thiagoalessandro/Projetos/pratice /areageo/bin/Debug/net9.0/areageo.pdb
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.dll
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/refint/areageo.dll
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.pdb
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/areageo.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /areageo/obj/Debug/net9.0/ref/areageo.dll

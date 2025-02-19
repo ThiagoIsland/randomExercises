@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thiagoalessandro/Projetos/pratice /cond/pratice.csproj": {}
+    "/Users/thiagoalessandro/Projetos/pratice /180225/180225.csproj": {}
   },
   "projects": {
-    "/Users/thiagoalessandro/Projetos/pratice /cond/pratice.csproj": {
+    "/Users/thiagoalessandro/Projetos/pratice /180225/180225.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thiagoalessandro/Projetos/pratice /cond/pratice.csproj",
-        "projectName": "pratice",
-        "projectPath": "/Users/thiagoalessandro/Projetos/pratice /cond/pratice.csproj",
+        "projectUniqueName": "/Users/thiagoalessandro/Projetos/pratice /180225/180225.csproj",
+        "projectName": "180225",
+        "projectPath": "/Users/thiagoalessandro/Projetos/pratice /180225/180225.csproj",
         "packagesPath": "/Users/thiagoalessandro/.nuget/packages/",
-        "outputPath": "/Users/thiagoalessandro/Projetos/pratice /cond/obj/",
+        "outputPath": "/Users/thiagoalessandro/Projetos/pratice /180225/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thiagoalessandro/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thiagoalessandro/Projetos/pratice /cond/pratice.csproj",
-      "projectName": "pratice",
-      "projectPath": "/Users/thiagoalessandro/Projetos/pratice /cond/pratice.csproj",
+      "projectUniqueName": "/Users/thiagoalessandro/Projetos/pratice /tabuada/tabuada.csproj",
+      "projectName": "tabuada",
+      "projectPath": "/Users/thiagoalessandro/Projetos/pratice /tabuada/tabuada.csproj",
       "packagesPath": "/Users/thiagoalessandro/.nuget/packages/",
-      "outputPath": "/Users/thiagoalessandro/Projetos/pratice /cond/obj/",
+      "outputPath": "/Users/thiagoalessandro/Projetos/pratice /tabuada/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thiagoalessandro/.nuget/NuGet/NuGet.Config"

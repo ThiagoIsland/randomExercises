@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /reverse/bin/Debug/net9.0/reverse
+/Users/thiagoalessandro/Projetos/pratice /reverse/bin/Debug/net9.0/reverse.deps.json
+/Users/thiagoalessandro/Projetos/pratice /reverse/bin/Debug/net9.0/reverse.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /reverse/bin/Debug/net9.0/reverse.dll
+/Users/thiagoalessandro/Projetos/pratice /reverse/bin/Debug/net9.0/reverse.pdb
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.dll
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/refint/reverse.dll
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.pdb
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/reverse.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /reverse/obj/Debug/net9.0/ref/reverse.dll

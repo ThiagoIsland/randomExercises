@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /twothousand/bin/Debug/net9.0/twothousand
+/Users/thiagoalessandro/Projetos/pratice /twothousand/bin/Debug/net9.0/twothousand.deps.json
+/Users/thiagoalessandro/Projetos/pratice /twothousand/bin/Debug/net9.0/twothousand.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /twothousand/bin/Debug/net9.0/twothousand.dll
+/Users/thiagoalessandro/Projetos/pratice /twothousand/bin/Debug/net9.0/twothousand.pdb
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.dll
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/refint/twothousand.dll
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.pdb
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/twothousand.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /twothousand/obj/Debug/net9.0/ref/twothousand.dll

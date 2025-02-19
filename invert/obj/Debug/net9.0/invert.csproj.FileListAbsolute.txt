@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /invert/bin/Debug/net9.0/invert
+/Users/thiagoalessandro/Projetos/pratice /invert/bin/Debug/net9.0/invert.deps.json
+/Users/thiagoalessandro/Projetos/pratice /invert/bin/Debug/net9.0/invert.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /invert/bin/Debug/net9.0/invert.dll
+/Users/thiagoalessandro/Projetos/pratice /invert/bin/Debug/net9.0/invert.pdb
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.dll
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/refint/invert.dll
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.pdb
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/invert.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /invert/obj/Debug/net9.0/ref/invert.dll

@@ -1,0 +1,15 @@
+/Users/thiagoalessandro/Projetos/pratice /mult100/bin/Debug/net9.0/mult100
+/Users/thiagoalessandro/Projetos/pratice /mult100/bin/Debug/net9.0/mult100.deps.json
+/Users/thiagoalessandro/Projetos/pratice /mult100/bin/Debug/net9.0/mult100.runtimeconfig.json
+/Users/thiagoalessandro/Projetos/pratice /mult100/bin/Debug/net9.0/mult100.dll
+/Users/thiagoalessandro/Projetos/pratice /mult100/bin/Debug/net9.0/mult100.pdb
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.AssemblyInfoInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.AssemblyInfo.cs
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.csproj.CoreCompileInputs.cache
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.sourcelink.json
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.dll
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/refint/mult100.dll
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.pdb
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/mult100.genruntimeconfig.cache
+/Users/thiagoalessandro/Projetos/pratice /mult100/obj/Debug/net9.0/ref/mult100.dll
